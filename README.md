@@ -41,7 +41,7 @@ https://notepad-plus-plus.org/download/
 
 10 - Son olarak onları değiştirip kaydettikten sonra "başlat.bat" dosyasına çift tıklayın ve çalıştırın.
 
-# config.json'da Bulunan Yazıların Anlamları
+# config.js'de Bulunan Yazıların Anlamları
 - "url" : hyperate urlniz buraya gelecek
 - "AppID": oluşturduğumuz application'un ID'si.
  - "aciklama": ikinci satırda yazacak olan mesaj.
